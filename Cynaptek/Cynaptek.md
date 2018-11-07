@@ -1,16 +1,23 @@
 
 # Cynaptek
 
-<>
+Address: Rue de Mulhouse 36, 4020 LIEGE ( BELGIUM )
 
-[Website](#) - [Facebook](#) - [LinkedIn](#) - [Twitter](#)
+Phone: +3242 66 94 48
+
+Links:
+
+[Website](http://cynaptek.com/)
+[Facebook](#)
+[LinkedIn](#)
+[Twitter](#)
 
 ![Logo de l' entreprise](NoLogo.png)
 
 
 ## Pitch
 
-**4 mots**: Hey - Mon - Ami - Patates
+**4 mots**: Animation - 3D - Image - Technologie
 **Phrase**: ...
 
 

@@ -3,7 +3,7 @@
 
 <https://www.digitalwallonia.be/fr/annuaire/pipette-inc/>
 
-[Website](#) - [Facebook](#) - [LinkedIn](#) - [Twitter](#)
+[Website](#https://www.pipetteinc.com/) - [Facebook](#) - [LinkedIn](#) - [Twitter](#)
 
 ![Logo de l' entreprise](NoLogo.png)
 
@@ -16,13 +16,13 @@
 
 ## Founder(s)
 
-- [Prénom NOM](#LinkedIn) (Buisness)
+- [Thierry](#LinkedIn) (Buisness)
 - [Prénom NOM](#LinkedIn) (Communication)
 - ...
 
 ## Lead Developer(s)
 
-- [Prénom NOM](#LinkedIn) (Senior)
+- [Thierry](#LinkedIn) (Senior)
 - [Prénom NOM](#LinkedIn) (Medior)
 - ...
 
