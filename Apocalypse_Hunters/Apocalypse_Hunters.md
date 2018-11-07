@@ -1,24 +1,41 @@
-# Company Name
-[Website](#) - [Facebook](#) - [LinkedIn](#) - [Twitter](#)  
+
+# Apocalypse Hunters
+
+<https://www.digitalwallonia.be/fr/annuaire/apocalypse-hunters/>
+
+[Website](#) - [Facebook](#) - [LinkedIn](#) - [Twitter](#)
+
 ![Logo de l' entreprise](NoLogo.png)
+
+
 ## Pitch
+
 **4 mots**: Hey - Mon - Ami - Patates
 **Phrase**: ...
 
+
 ## Founder(s)
+
 - [Prénom NOM](#LinkedIn) (Buisness)
 - [Prénom NOM](#LinkedIn) (Communication)
 - ...
+
 ## Lead Developer(s)
+
 - [Prénom NOM](#LinkedIn) (Senior)
 - [Prénom NOM](#LinkedIn) (Medior)
 - ...
+
 ## Company Info
- - 0-5 employés
- - 0-2 dévelopeurs 
+
+- 0-5 employés
+- 0-2 dévelopeurs
+
 
 ## Custumer Segment
+
 ### Client cible
+
 - Description
 - Pourquoi ?
 
